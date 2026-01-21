@@ -48,12 +48,12 @@ jobs:
           distribution: "temurin"
 
       - name: Navigate to backend directory
-        run: cd backend/causebank
+        run: cd backend
 
       - name: Build backend with Maven
-        working-directory: backend/causebank
+        working-directory: backend
         run: mvn clean package
 
       - name: Run backend tests
-        working-directory: backend/causebank
+        working-directory: backend
         run: mvn test
