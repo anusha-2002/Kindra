@@ -1,4 +1,4 @@
-# 🏦 CauseBank
+# 💸 Kindra
 
 A crowdfunding platform designed for verified charitable organizations. Donors can support causes they care about while organizations manage transparent fundraising campaigns.
 
